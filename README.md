@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @assrielp!
-- 👀 I’m interested in Bioinformatics R&D, Web Development, Software Engineering, and IT!
-- 🌱 I’m currently an undergraduate sophomore studying Bioinformatics/Computational Biology
+- 👀 I’m interested in Bioinformatics R&D, Product Management, and Computational Genomics!
+- 🌱 I’m currently an undergraduate junior studying Bioinformatics/Computational Biology
 - 📫 How to reach me: orp9@pitt.edu
